@@ -12,6 +12,7 @@
         <copied_from/>
         <copied_from_name/>
         <description>Testing dev flow </description>
+        <display_name_after_preview/>
         <flow_priority>MEDIUM</flow_priority>
         <generation_source/>
         <internal_name>dev_flow_test</internal_name>
@@ -29,6 +30,7 @@
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
         <status>draft</status>
+        <substatus/>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-21 05:37:02</sys_created_on>
